@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #IDEA工程文件
 
 .idea/
@@ -5,3 +6,28 @@
 out/
 
 testgit.iml
+=======
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> 53379f71ad55fc8310fea6a75bdceec54732ab60
